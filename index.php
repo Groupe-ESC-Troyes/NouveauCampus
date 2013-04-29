@@ -43,22 +43,22 @@
 	<nav id="mainnav">
 		<ul>
 			<li>
-				<a href="#">
+				<a href="#" class="accueil">
 					Accueil
 				</a>
 			</li>
 			<li>
-				<a href="#">
+				<a href="#" class="motivations">
 					Nos motivations
 				</a>
 			</li>
 			<li>
-				<a href="#">
+				<a href="#" class="campus">
 					Le nouveau campus
 				</a>
 			</li>
 			<li>
-				<a href="#">
+				<a href="#" class="travaux">
 					les travaux
 				</a>
 			</li>

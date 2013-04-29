@@ -1,7 +1,47 @@
 @import "base";
 
 #mainnav{
-	display: none;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	background: $orange;
+}
+#mainnav ul{
+	display: table;
+	list-style: none;
+	width: 960px;
+	margin: auto;
+}
+#mainnav li{
+	display: table-cell;
+	vertical-align: middle;
+}
+#mainnav a{
+	display: block;
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+	margin-top: -15px;
+	padding-bottom: 7px;
+
+	&:before{
+		@include rem-sizing('font-size', 40);
+		font-family: entypo;
+		position: relative;
+		top: 12px;
+	}
+	&.accueil:before{
+		content: '\e000';
+	}
+	&.motivations:before{
+		content: '\e001';
+	}
+	&.campus:before{
+		content: '\e002';
+	}
+	&.travaux:before{
+		content: '\e003';
+	}
 }
 
 section{
