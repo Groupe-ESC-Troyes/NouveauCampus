@@ -18,7 +18,7 @@
 }
 #mainnav a{
 	display: block;
-	color: #fff;
+	color: #ffffff;
 	text-decoration: none;
 	text-transform: uppercase;
 	margin-top: -15px;
@@ -29,6 +29,7 @@
 		font-family: entypo;
 		position: relative;
 		top: 12px;
+		color: #c05a08;
 	}
 	&.accueil:before{
 		content: '\e000';
@@ -41,6 +42,10 @@
 	}
 	&.travaux:before{
 		content: '\e003';
+	}
+	
+	&:hover:before{
+		color: #fff;
 	}
 }
 
