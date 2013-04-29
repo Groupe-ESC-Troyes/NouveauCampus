@@ -70,18 +70,6 @@
 			Un nouveau campus
 			<span class="alternate">à la mesure de vos ambitions</span>
 		</h1>
-		
-		<nav class="subnav">
-			<a href="#">
-				Nos motivations
-			</a>
-			<a href="#">
-				Le nouveau campus
-			</a>
-			<a href="#">
-				Les travaux
-			</a>
-		</nav>
 	</section>
 	
 	<section>
