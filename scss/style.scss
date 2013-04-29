@@ -12,6 +12,21 @@ section{
 	padding: 40px 0;
 	min-height: 700px;
 }
+div.wrapper{
+	width: 960px;
+	margin: auto;
+}
+
+//sldies de texte
+div.wrapper h2{
+	text-align: center;
+}
+div.wrapper p{
+	@include column-count(2);
+	@include column-gap(30px);
+	@include column-break-inside(avoid);
+	text-align: justify;
+}
 
 #accueil{
 	background-image: url('../img/vue-aerienne.jpg');
@@ -36,9 +51,9 @@ section{
 	display: block;
 	float: left;
 	color: #fff;
-	width: 250px;
-	height: 250px;
-	margin-left: 25px;
+	width: 200px;
+	height: 200px;
+	margin-left: 100px;
 	background: $orange;
 	text-decoration: none;
 	text-transform: uppercase;
