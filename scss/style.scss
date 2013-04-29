@@ -16,6 +16,39 @@ section{
 #accueil{
 	background-image: url('../img/vue-aerienne.jpg');
 }
+#accueil h1{
+	background: rgba(0,0,0,.3);
+	width: 800px;
+	margin: 50px auto 0;
+	padding: 35px 0;
+	text-align: center;
+}
+#accueil h1 .alternate{
+	display: block;
+	color: #fff;
+	@include rem-sizing('font-size', 40);
+}
+#accueil nav.subnav{
+	width: 800px;
+	margin: 30px auto 0;
+}
+#accueil nav.subnav a{
+	display: block;
+	float: left;
+	color: #fff;
+	width: 250px;
+	height: 250px;
+	margin-left: 25px;
+	background: $orange;
+	text-decoration: none;
+	text-transform: uppercase;
+	text-align: center;
+	font-family: $heading-font;
+
+	&:first-child{
+		margin-left: 0;
+	}
+}
 
 #partenaire-1{
 	background-image: url('../img/vue-externe.jpg');

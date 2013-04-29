@@ -1,7 +1,7 @@
 @import "compass";
 
 $body-copy-font: Helvetica, Arial;
-$heading-font: Georgia, Trebuchet, Helvetica, Arial;
+$heading-font: Trebuchet, Helvetica, Arial;
 $font-base: 16;
 
 $large-desktop: 1280px;
@@ -22,4 +22,8 @@ $orange: #f68022;
 
 body{
 	background: #f1f1f1;
+}
+
+h1,h2,h3,h4,h5,h6{
+	text-transform: uppercase;
 }

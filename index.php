@@ -68,10 +68,10 @@
 	<section id="accueil">
 		<h1>
 			Un nouveau campus
-			<span>à la mesure de vos ambitions</span>
+			<span class="alternate">à la mesure de vos ambitions</span>
 		</h1>
 		
-		<nav>
+		<nav class="subnav">
 			<a href="#">
 				Nos motivations
 			</a>
