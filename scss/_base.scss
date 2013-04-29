@@ -14,6 +14,12 @@ $grid-collapse-below: $mobile;
 $default-transition-function: ease-in;
 $default-transition-duration: 0.2s;
 
+$orange: #f68022;
+
 @import "qb/all";
 
 @include register-breakpoints($mobile, $tablet, $small-desktop, $large-desktop);
+
+body{
+	background: #f1f1f1;
+}

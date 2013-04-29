@@ -16,7 +16,7 @@
 	
 	<meta name="viewport" content="width=device-width">
 	
-	<link rel="stylesheet" href="/css/style.css?v=0">
+	<link rel="stylesheet" href="css/style.css?v=0">
 	
 	<!-- RSS 
 	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.xml" />
@@ -40,7 +40,7 @@
 <body>
 	<!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
 	
-	<nav>
+	<nav id="mainnav">
 		<ul>
 			<li>
 				<a href="#">
@@ -65,7 +65,7 @@
 		</ul>
 	</nav>
 	
-	<section>
+	<section id="accueil">
 		<h1>
 			Un nouveau campus
 			<span>à la mesure de vos ambitions</span>
@@ -105,7 +105,7 @@
 		</p>
 	</section>
 	
-	<section>
+	<section id="partenaire-1">
 	</section>
 
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>

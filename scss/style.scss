@@ -1,1 +1,22 @@
 @import "base";
+
+#mainnav{
+	display: none;
+}
+
+section{
+	@include background-size(cover);
+	background-position: center;
+	//background-attachment: fixed;
+	background-repeat: no-repeat;
+	padding: 40px 0;
+	min-height: 700px;
+}
+
+#accueil{
+	background-image: url('../img/vue-aerienne.jpg');
+}
+
+#partenaire-1{
+	background-image: url('../img/vue-externe.jpg');
+}
