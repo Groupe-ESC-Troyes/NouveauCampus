@@ -89,21 +89,23 @@
 			<h2 class="gamma">
 				Pourquoi un nouveau campus ?
 			</h2>
-			<p>
-				He goes off in a huff. The whole he can endure; at the parts he baulks. Now I don't like this. I make a leg for Captain Ahab, and he wears it like a gentleman; but I make a bandbox for Queequeg, and he won't put his head into it. Are all my pains to go for nothing with that coffin? And now I'm ordered to make a life-buoy of it. It's like turning an old coat; going to bring the flesh on the other side now.
-			</p>
-			<p>
-				I don't like this cobbling sort of business—I don't like it at all; it's undignified; it's not my place. Let tinkers' brats do tinkerings; we are their betters. I like to take in hand none but clean, virgin, fair-and-square mathematical jobs, something that regularly begins at the beginning, and is at the middle when midway, and comes to an end at the conclusion; not a cobbler's job, that's at an end in the middle, and at the beginning at the end.
-			</p>
-			<p>
-				It's the old woman's tricks to be giving cobbling jobs. Lord! what an affection all old women have for tinkers. I know an old woman of sixty-five who ran away with a bald-headed young tinker once. And that's the reason I never would work for lonely widow old women ashore, when I kept my job-shop in the Vineyard; they might have taken it into their lonely old heads to run off with me. But heigh-ho! there are no caps at sea but snow-caps. Let me see.
-			</p>
-			<p>
-				 And that's the reason I never would work for lonely widow old women ashore, when I kept my job-shop in the Vineyard; they might have taken it into their lonely old heads to run off with me. But heigh-ho! there are no caps at sea but snow-caps. Let me see. Nail down the lid; caulk the seams; pay over the same with pitch; batten them down tight, and hang it with the snap-spring over the ship's stern.
-			</p>
-			<p>
-				But I'm made of knotty Aroostook hemlock; I don't budge. Cruppered with a coffin! Sailing about with a grave-yard tray! But never mind. We workers in woods make bridal-bedsteads and card-tables, as well as coffins and hearses. We work by the month, or by the job, or by the profit; not for us to ask the why and wherefore of our work, unless it be too confounded cobbling, and then we stash it if we can.
-			</p>
+			<div class="content">
+				<p>
+					He goes off in a huff. The whole he can endure; at the parts he baulks. Now I don't like this. I make a leg for Captain Ahab, and he wears it like a gentleman; but I make a bandbox for Queequeg, and he won't put his head into it. Are all my pains to go for nothing with that coffin? And now I'm ordered to make a life-buoy of it. It's like turning an old coat; going to bring the flesh on the other side now.
+				</p>
+				<p>
+					I don't like this cobbling sort of business—I don't like it at all; it's undignified; it's not my place. Let tinkers' brats do tinkerings; we are their betters. I like to take in hand none but clean, virgin, fair-and-square mathematical jobs, something that regularly begins at the beginning, and is at the middle when midway, and comes to an end at the conclusion; not a cobbler's job, that's at an end in the middle, and at the beginning at the end.
+				</p>
+				<p>
+					It's the old woman's tricks to be giving cobbling jobs. Lord! what an affection all old women have for tinkers. I know an old woman of sixty-five who ran away with a bald-headed young tinker once. And that's the reason I never would work for lonely widow old women ashore, when I kept my job-shop in the Vineyard; they might have taken it into their lonely old heads to run off with me. But heigh-ho! there are no caps at sea but snow-caps. Let me see.
+				</p>
+				<p>
+					 And that's the reason I never would work for lonely widow old women ashore, when I kept my job-shop in the Vineyard; they might have taken it into their lonely old heads to run off with me. But heigh-ho! there are no caps at sea but snow-caps. Let me see. Nail down the lid; caulk the seams; pay over the same with pitch; batten them down tight, and hang it with the snap-spring over the ship's stern.
+				</p>
+				<p>
+					But I'm made of knotty Aroostook hemlock; I don't budge. Cruppered with a coffin! Sailing about with a grave-yard tray! But never mind. We workers in woods make bridal-bedsteads and card-tables, as well as coffins and hearses. We work by the month, or by the job, or by the profit; not for us to ask the why and wherefore of our work, unless it be too confounded cobbling, and then we stash it if we can.
+				</p>
+			</div>
 		</div>
 	</section>
 	

@@ -20,12 +20,17 @@ div.wrapper{
 //sldies de texte
 div.wrapper h2{
 	text-align: center;
+	margin-bottom: 35px;
 }
-div.wrapper p{
+div.content{
 	@include column-count(2);
 	@include column-gap(30px);
 	@include column-break-inside(avoid);
 	text-align: justify;
+}
+div.content p{
+	line-height: 1.4;
+	margin-bottom: 39px;
 }
 
 #accueil{
