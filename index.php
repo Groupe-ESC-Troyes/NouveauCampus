@@ -96,11 +96,18 @@
 			</div>
 		</div>
 		<ul class="gallerie clearfix">
-			<?php for ($i = 0; $i < 20; $i++){?>
 			<li>
-				<img src="http://placekitten.com/250/140" />
+				<a href="img/archives/ecg_78.jpg" rel="fancybox" class="img-78">
+				</a>
 			</li>
-			<?php } ?>
+			<li>
+				<a href="img/archives/ecg_85.jpg" rel="fancybox" class="img-85">
+				</a>
+			</li>
+			<li>
+				<a href="img/archives/ecg-batiment.jpg" rel="fancybox" class="img-batiment">
+				</a>
+			</li>
 		</ul>
 	</section>
 	
@@ -143,7 +150,9 @@
 		</div>
 	</section>
 
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-	<script>window.jQuery || document.write('<script src="/js/libs/jquery-1.9.1.min.js"><\/script>')</script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="js/libs/jquery-1.9.1.min.js"><\/script>')</script>
+	<script src="js/libs/fancybox/jquery.fancybox.js"></script>
+	<link rel="stylesheet" href="css/fancybox/jquery.fancybox.css">
 </body>
 </html>
