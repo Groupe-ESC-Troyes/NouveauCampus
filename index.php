@@ -43,22 +43,22 @@
 	<nav id="mainnav">
 		<ul>
 			<li>
-				<a href="#" class="accueil">
+				<a href="#accueil" class="accueil">
 					Accueil
 				</a>
 			</li>
 			<li>
-				<a href="#" class="motivations">
+				<a href="#motivations" class="motivations">
 					Nos motivations
 				</a>
 			</li>
 			<li>
-				<a href="#" class="campus">
+				<a href="#campus" class="campus">
 					Le nouveau campus
 				</a>
 			</li>
 			<li>
-				<a href="#" class="travaux">
+				<a href="#travaux" class="travaux">
 					les travaux
 				</a>
 			</li>
@@ -72,7 +72,7 @@
 		</h1>
 	</section>
 	
-	<section>
+	<section id="motivations">
 		<div class="wrapper">
 			<h2 class="gamma">
 				Pourquoi un nouveau campus ?
@@ -114,7 +114,7 @@
 	<section id="partenaire-1">
 	</section>
 	
-	<section>
+	<section id="campus">
 		<div class="wrapper">
 			<h2 class="gamma">
 				Le nouveau campus
@@ -142,7 +142,7 @@
 	<section id="partenaire-2">
 	</section>
 	
-	<section>
+	<section id="travaux">
 		<div class="wrapper">
 			<h2 class="gamma">
 				Les travaux

@@ -56,6 +56,10 @@ section{
 	background-position: center;
 	background-repeat: no-repeat;
 	min-height: 700px;
+	
+	&:target{
+		padding-top: 50px;
+	}
 }
 div.wrapper{
 	width: 960px;
@@ -80,7 +84,6 @@ div.content p{
 }
 
 #accueil{
-	margin-top: 50px;
 	padding: 40px 0;
 	background-image: url('../img/vue-aerienne.jpg');
 }
