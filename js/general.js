@@ -1,9 +1,18 @@
 $(function(){
 	$('a[rel="fancybox"]').fancybox();
 	
+	var transitioned = false;
 	var animationEnd = 'webkitAnimationEnd oanimationend msAnimationEnd animationend';
-	$('ul.gallerie').click(function(){
-		var lis = $(this).find('li');
+	
+	$(document).on('scroll', function(){
+		if (isElementInViewport($('ul.gallerie')[0]) && !transitioned){
+			transitionGalerie();
+		}
+	});
+	
+	function transitionGalerie(){
+		transitioned = true;
+		var lis = $('ul.gallerie li');
 		var animated = -1;
 		
 		(function(){
@@ -14,6 +23,14 @@ $(function(){
 				caller();
 			});
 		})();
-		
-	});
+	}
+	
+	function isElementInViewport(el){
+		var rect = el.getBoundingClientRect();
+
+	    return (
+	    	rect.top >= 0 &&
+	        rect.bottom <= (window.innerHeight || document. documentElement.clientHeight)+100 //&& /*or $(window).height() */
+	    );
+	}
 });
