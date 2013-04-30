@@ -95,7 +95,7 @@
 				</p>
 			</div>
 		</div>
-		<ul class="gallerie clearfix">
+		<ul class="galerie clearfix">
 			<li>
 				<a href="img/archives/ecg_78.jpg" rel="galerie" class="img-78">
 				</a>

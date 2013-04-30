@@ -125,19 +125,19 @@ div.content p{
 	background-image: url('../img/vue-interieur.jpg');
 }
 
-ul.gallerie{
+ul.galerie{
 	list-style: none;
 	background: #d9d9d9;
 	padding: 25px 0;
 	min-height: 220px;
 	margin-top: 20px;
 }
-ul.gallerie li{
+ul.galerie li{
 	float: left;
 	margin: 15px;
 	display: none;
 }
-ul.gallerie li.appear{
+ul.galerie li.appear{
 	display: block;
 	opacity: 0;
 	@include translateY(300px);
@@ -149,7 +149,7 @@ ul.gallerie li.appear{
 		@include translateY(0);
 	}
 }
-ul.gallerie a{
+ul.galerie a{
 	display: block;
 	width: 250px;
 	height: 140px;

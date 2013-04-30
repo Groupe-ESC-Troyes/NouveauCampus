@@ -5,14 +5,14 @@ $(function(){
 	var animationEnd = 'webkitAnimationEnd oanimationend msAnimationEnd animationend';
 	
 	$(document).on('scroll', function(){
-		if (isElementInViewport($('ul.gallerie')[0]) && !transitioned){
+		if (isElementInViewport($('ul.galerie')[0]) && !transitioned){
 			transitionGalerie();
 		}
 	});
 	
 	function transitionGalerie(){
 		transitioned = true;
-		var lis = $('ul.gallerie li');
+		var lis = $('ul.galerie li');
 		var animated = -1;
 		
 		(function(){
