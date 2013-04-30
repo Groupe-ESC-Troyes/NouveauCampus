@@ -149,13 +149,21 @@
 			</h2>
 		</div>
 		<ul class="travaux">
-			<?php for ($i = 0; $i < 5; $i++){ ?>
 			<li>
-				<a href="#">
-					<span>some text</span>
+				<a href="#" class="parking">
+					<span>25 mars — tout rasé</span>
 				</a>
 			</li>
-			<?php } ?>
+			<li>
+				<a href="#" class="terre">
+					<span>13 avril — ça commence</span>
+				</a>
+			</li>
+			<li>
+				<a href="#" class="ru">
+					<span>28 avril — l'ancien réfectoire</span>
+				</a>
+			</li>
 		</ul>
 	</section>
 
