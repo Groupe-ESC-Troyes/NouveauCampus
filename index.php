@@ -97,15 +97,15 @@
 		</div>
 		<ul class="gallerie clearfix">
 			<li>
-				<a href="img/archives/ecg_78.jpg" rel="fancybox" class="img-78">
+				<a href="img/archives/ecg_78.jpg" rel="galerie" class="img-78">
 				</a>
 			</li>
 			<li>
-				<a href="img/archives/ecg_85.jpg" rel="fancybox" class="img-85">
+				<a href="img/archives/ecg_85.jpg" rel="galerie" class="img-85">
 				</a>
 			</li>
 			<li>
-				<a href="img/archives/ecg-batiment.jpg" rel="fancybox" class="img-batiment">
+				<a href="img/archives/ecg-batiment.jpg" rel="galerie" class="img-batiment">
 				</a>
 			</li>
 		</ul>
@@ -150,17 +150,17 @@
 		</div>
 		<ul class="travaux">
 			<li>
-				<a href="#" class="parking">
+				<a href="img/travaux/panoramique-parking.jpg" class="parking" rel="travaux">
 					<span>25 mars — tout rasé</span>
 				</a>
 			</li>
 			<li>
-				<a href="#" class="terre">
+				<a href="img/travaux/panoramique-terre.jpg" class="terre" rel="travaux">
 					<span>13 avril — ça commence</span>
 				</a>
 			</li>
 			<li>
-				<a href="#" class="ru">
+				<a href="img/travaux/ru.jpg" class="ru" rel="travaux">
 					<span>28 avril — l'ancien réfectoire</span>
 				</a>
 			</li>

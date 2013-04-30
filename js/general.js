@@ -1,5 +1,5 @@
 $(function(){
-	$('a[rel="fancybox"]').fancybox();
+	$('a[rel="galerie"], a[rel="travaux"]').fancybox();
 	
 	var transitioned = false;
 	var animationEnd = 'webkitAnimationEnd oanimationend msAnimationEnd animationend';
