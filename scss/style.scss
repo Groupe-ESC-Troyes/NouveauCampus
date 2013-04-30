@@ -167,3 +167,44 @@ ul.gallerie a{
 		background-image: url('../img/archives/ecg-batiment.jpg');
 	}
 }
+
+ul.travaux{
+	list-style: none;
+	padding: 25px 0;
+	min-height: 220px;
+	margin-top: 20px;
+}
+ul.travaux a{
+	position: relative;
+	display: block;
+	margin: 50px auto;
+	width: 820px;
+	height: 180px;
+	background-image: url('http://placekitten.com/820/180');
+	@include rem-sizing('font-size', 25);
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: $heading-font;
+	text-align: center;
+	
+	&:first-child{
+		margin-top: 0;
+	}
+	&:before{
+		content: '';
+		display: block;
+		position: absolute;
+		z-index: 100;
+		width: 100%;
+		height: 100%;
+		background: rgba(0,0,0,.2);
+	}
+}
+ul.travaux a span{
+	position: relative;
+	top: 70px;
+	z-index: 101;
+	opacity: .4;
+	@include text-shadow();
+}

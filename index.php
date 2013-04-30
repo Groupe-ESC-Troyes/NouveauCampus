@@ -148,6 +148,15 @@
 				Les travaux
 			</h2>
 		</div>
+		<ul class="travaux">
+			<?php for ($i = 0; $i < 5; $i++){ ?>
+			<li>
+				<a href="#">
+					<span>some text</span>
+				</a>
+			</li>
+			<?php } ?>
+		</ul>
 	</section>
 
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
