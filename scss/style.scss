@@ -139,13 +139,13 @@ ul.gallerie li{
 ul.gallerie li.appear{
 	display: block;
 	opacity: 0;
-	transform: translateX(-300px);
+	transform: translateY(300px);
 	animation: moveIn 0.5s ease forwards;
 }
 @keyframes moveIn {
 	to{ 
 		opacity: 1;
-		transform: translateX(0);
+		transform: translateY(0);
 	}
 }
 ul.gallerie a{
@@ -155,6 +155,7 @@ ul.gallerie a{
 	@include background-size(cover);
 	background-position: center;
 	background-repeat: no-repeat;
+	position: relative;
 	
 	&.img-78{
 		background-image: url('../img/archives/ecg_78.jpg');
