@@ -153,6 +153,7 @@
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 	<script>window.jQuery || document.write('<script src="js/libs/jquery-1.9.1.min.js"><\/script>')</script>
 	<script src="js/libs/fancybox/jquery.fancybox.js"></script>
+	<script src="js/general.js"></script>
 	<link rel="stylesheet" href="css/fancybox/jquery.fancybox.css">
 </body>
 </html>

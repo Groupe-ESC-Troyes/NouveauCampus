@@ -1981,7 +1981,3 @@
 	});
 
 }(window, document, jQuery));
-
-$(function(){
-	$('a[rel="fancybox"]').fancybox();
-});
