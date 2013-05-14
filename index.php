@@ -79,19 +79,23 @@
 			</h2>
 			<div class="content">
 				<p>
-					He goes off in a huff. The whole he can endure; at the parts he baulks. Now I don't like this. I make a leg for Captain Ahab, and he wears it like a gentleman; but I make a bandbox for Queequeg, and he won't put his head into it. Are all my pains to go for nothing with that coffin? And now I'm ordered to make a life-buoy of it. It's like turning an old coat; going to bring the flesh on the other side now.
+					Installée depuis la fin des années 80 sur son site de l’avenue Pierre Brossolette 
+					à Troyes, le Groupe ESC Troyes, à l’étroit dans ses locaux, sera prochainement 
+					doté d’un tout nouveau bâtiment grâce à la participation du Grand Troyes, 
+					du Conseil Général de l’Aube, de la CCI de Troyes et de l’Aube et du Conseil 
+					Régional de Champagne-Ardenne. Au programme, un nouveau bâtiment relié à 
+					l'ancien par une passerelle, de nouveaux parkings et des lieux de vie plus 
+					modernes et adaptés aux étudiants et aux entreprises.
 				</p>
 				<p>
-					I don't like this cobbling sort of business—I don't like it at all; it's undignified; it's not my place. Let tinkers' brats do tinkerings; we are their betters. I like to take in hand none but clean, virgin, fair-and-square mathematical jobs, something that regularly begins at the beginning, and is at the middle when midway, and comes to an end at the conclusion; not a cobbler's job, that's at an end in the middle, and at the beginning at the end.
+					Cet investissement de 30 millions d’euros permettra de doubler la surface de 
+					l’école et de regrouper différentes formations, jusque-là réparties dans 
+					plusieurs sites en ville. 
 				</p>
 				<p>
-					It's the old woman's tricks to be giving cobbling jobs. Lord! what an affection all old women have for tinkers. I know an old woman of sixty-five who ran away with a bald-headed young tinker once. And that's the reason I never would work for lonely widow old women ashore, when I kept my job-shop in the Vineyard; they might have taken it into their lonely old heads to run off with me. But heigh-ho! there are no caps at sea but snow-caps. Let me see.
-				</p>
-				<p>
-					 And that's the reason I never would work for lonely widow old women ashore, when I kept my job-shop in the Vineyard; they might have taken it into their lonely old heads to run off with me. But heigh-ho! there are no caps at sea but snow-caps. Let me see. Nail down the lid; caulk the seams; pay over the same with pitch; batten them down tight, and hang it with the snap-spring over the ship's stern.
-				</p>
-				<p>
-					But I'm made of knotty Aroostook hemlock; I don't budge. Cruppered with a coffin! Sailing about with a grave-yard tray! But never mind. We workers in woods make bridal-bedsteads and card-tables, as well as coffins and hearses. We work by the month, or by the job, or by the profit; not for us to ask the why and wherefore of our work, unless it be too confounded cobbling, and then we stash it if we can.
+					C’est un projet d’envergure pour regrouper, à terme, près de 2000 étudiants sur 
+					place dans un nouvel écrin, plus grand, plus confortable et plus en phase avec 
+					les ambitions de l’école et du territoire.
 				</p>
 			</div>
 		</div>
@@ -121,19 +125,21 @@
 			</h2>
 			<div class="content">
 				<p>
-					He goes off in a huff. The whole he can endure; at the parts he baulks. Now I don't like this. I make a leg for Captain Ahab, and he wears it like a gentleman; but I make a bandbox for Queequeg, and he won't put his head into it. Are all my pains to go for nothing with that coffin? And now I'm ordered to make a life-buoy of it. It's like turning an old coat; going to bring the flesh on the other side now.
+					C’est un projet de grande envergure qui s’annonce haut en couleur et surtout en 
+					lumière. En effet, il sera composé d’une immense baie vitrée permettant à la 
+					lumière d’illuminer l’accueil d’une superficie de 11000 m². Un grand parvis sera 
+					également construit afin d’accueillir les 2000 étudiants ayant envie d’air frais. 
+					La structure sera divisée en deux pour laisser place à une petite rue intérieure 
+					et une passerelle reliera l’ancien et le nouveau bâtiment. 
 				</p>
 				<p>
-					I don't like this cobbling sort of business—I don't like it at all; it's undignified; it's not my place. Let tinkers' brats do tinkerings; we are their betters. I like to take in hand none but clean, virgin, fair-and-square mathematical jobs, something that regularly begins at the beginning, and is at the middle when midway, and comes to an end at the conclusion; not a cobbler's job, that's at an end in the middle, and at the beginning at the end.
-				</p>
-				<p>
-					It's the old woman's tricks to be giving cobbling jobs. Lord! what an affection all old women have for tinkers. I know an old woman of sixty-five who ran away with a bald-headed young tinker once. And that's the reason I never would work for lonely widow old women ashore, when I kept my job-shop in the Vineyard; they might have taken it into their lonely old heads to run off with me. But heigh-ho! there are no caps at sea but snow-caps. Let me see.
-				</p>
-				<p>
-					 And that's the reason I never would work for lonely widow old women ashore, when I kept my job-shop in the Vineyard; they might have taken it into their lonely old heads to run off with me. But heigh-ho! there are no caps at sea but snow-caps. Let me see. Nail down the lid; caulk the seams; pay over the same with pitch; batten them down tight, and hang it with the snap-spring over the ship's stern.
-				</p>
-				<p>
-					But I'm made of knotty Aroostook hemlock; I don't budge. Cruppered with a coffin! Sailing about with a grave-yard tray! But never mind. We workers in woods make bridal-bedsteads and card-tables, as well as coffins and hearses. We work by the month, or by the job, or by the profit; not for us to ask the why and wherefore of our work, unless it be too confounded cobbling, and then we stash it if we can.
+					Particularité du nouveau bâtiment : il sera traversé par une large rue 
+					intérieure, offrant une véritable qualité d'espace. Pour éviter une opposition 
+					de style trop importante entre l'ancien et le nouvel édifice, une passerelle 
+					devrait rapprocher les deux lieux : « Nous avons souhaité donner une dimension 
+					troyenne à l'ESC en nous inspirant de l'univers de l'école caractérisé par des 
+					sites industriels comme Jacquot ou Devanlay et la présence des magasins 
+					d'usine », assure l’architecte François Peiffer pour le journal l’est-éclair.
 				</p>
 			</div>
 		</div>
