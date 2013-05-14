@@ -55,11 +55,15 @@ section{
 	@include background-size(cover);
 	background-position: center;
 	background-repeat: no-repeat;
-	min-height: 700px;
 	
 	&:target{
 		padding-top: 50px;
 	}
+}
+#accueil,
+#partenaire-1,
+#partenaire-2{
+	min-height: 700px;
 }
 div.wrapper{
 	width: 960px;
