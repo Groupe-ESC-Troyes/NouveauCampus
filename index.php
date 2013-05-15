@@ -142,7 +142,7 @@
 						Nous avons souhaité donner une dimension 
 						troyenne à l'ESC en nous inspirant de l'univers de l'école caractérisé par des 
 						sites industriels comme Jacquot ou Devanlay et la présence des magasins 
-						d'usine
+						d'usine.
 					</blockquote>
 				</aside>
 				<p>

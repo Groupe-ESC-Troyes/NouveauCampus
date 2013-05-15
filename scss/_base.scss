@@ -48,6 +48,7 @@ span.icon{
 	@include rem-sizing('font-size', 20);
 	text-align: justify;
 	font-weight: 200;
+	font-family: Trebuchet, Garamond;
 }
 
 @include keyframes(slideIn){
