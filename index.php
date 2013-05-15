@@ -13,6 +13,7 @@
 	<title>Un nouveau campus à la mesure de vos ambitions</title>
 	<meta name="description" content="">
 	<link rel="shortcut icon" href="/favicon.ico?v=0">
+	<link href='http://fonts.googleapis.com/css?family=Titillium+Web:400' rel='stylesheet' type='text/css'>
 	
 	<meta name="viewport" content="width=device-width">
 	
