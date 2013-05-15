@@ -164,65 +164,65 @@
 		</div>
 		<ul class="travaux">
 			<li>
-				<a href="img/travaux/pre-destruction.jpg" class="usine" rel="travaux">
+				<a href="img/travaux/pre-destruction.jpg" class="usine" rel="travaux" title="Juillet 2012 — L’usine qui laissera place au campus">
 					<div class="table-wrap">
-						<span>juillet 2012 — l’usine qui laissera place au campus</span>
+						<span>Juillet 2012 — L’usine qui laissera place au campus</span>
 					</div>
 				</a>
 			</li>
 			<li>
-				<a href="img/travaux/destruction.jpg" class="demolition" rel="travaux">
+				<a href="img/travaux/destruction.jpg" class="demolition" rel="travaux" title="Octobre 2012 — Début de la démolition de l’ancienne usine">
 					<div class="table-wrap">
-						<span>octobre 2012 : début de la démolition de l’ancienne usine</span>
+						<span>Octobre 2012 — Début de la démolition de l’ancienne usine</span>
 					</div>
 				</a>
 			</li>
 			<li>
-				<a href="img/travaux/destruction-noirblanc.jpg" class="construction" rel="travaux">
+				<a href="img/travaux/destruction-noirblanc.jpg" class="construction" rel="travaux" title="Novembre 2012 — Nouveaux espaces de construction">
 					<div class="table-wrap">
-						<span>novembre 2012 : nouveaux espaces de construction</span>
+						<span>Novembre 2012 — Nouveaux espaces de construction</span>
 					</div>
 				</a>
 			</li>
 			<li>
-				<a href="img/travaux/destruction-batiment.jpg" class="fin-demolitions" rel="travaux">
+				<a href="img/travaux/destruction-batiment.jpg" class="fin-demolitions" rel="travaux" title="Décembre 2012 — Dernières démolitions">
 					<div class="table-wrap">
-						<span>décembre 2012 : dernières démolitions</span>
+						<span>Décembre 2012 — Dernières démolitions</span>
 					</div>
 				</a>
 			</li>
 			<li>
-				<a href="img/travaux/pano-1.jpg" class="terrassement-1" rel="travaux">
+				<a href="img/travaux/pano-1.jpg" class="terrassement-1" rel="travaux" title="Janvier 2013 — Fin de la démolition et début du terrassement">
 					<div class="table-wrap">
-						<span>janvier 2013 : fin de la démolition et début du terrassement</span>
+						<span>Janvier 2013 — Fin de la démolition et début du terrassement</span>
 					</div>
 				</a>
 			</li>
 			<li>
-				<a href="img/travaux/pano-2.jpg" class="terrassement-2" rel="travaux">
+				<a href="img/travaux/pano-2.jpg" class="terrassement-2" rel="travaux" title="Février 2013 — Travaux de terrassement">
 					<div class="table-wrap">
-						<span>février 2013 : travaux de terrassement</span>
+						<span>Février 2013 — Travaux de terrassement</span>
 					</div>
 				</a>
 			</li>
 			<li>
-				<a href="img/travaux/pano-3.jpg" class="terrassement-3" rel="travaux">
+				<a href="img/travaux/pano-3.jpg" class="terrassement-3" rel="travaux" title="Mars 2013 — Préparation du terrain et fin du terrassement">
 					<div class="table-wrap">
-						<span>mars 2013 : préparation du terrain et fin du terrassement</span>
+						<span>Mars 2013 — Préparation du terrain et fin du terrassement</span>
 					</div>
 				</a>
 			</li>
 			<li>
-				<a href="img/travaux/pano-4.jpg" class="grue" rel="travaux">
+				<a href="img/travaux/pano-4.jpg" class="grue" rel="travaux" title="Avril 2013 — Installation de la grue et début des fondations">
 					<div class="table-wrap">
-						<span>avril 2013 : installation de la grue et début des fondations</span>
+						<span>Avril 2013 — Installation de la grue et début des fondations</span>
 					</div>
 				</a>
 			</li>
 			<li>
-				<a href="img/travaux/pano-5.jpg" class="fondations" rel="travaux">
+				<a href="img/travaux/pano-5.jpg" class="fondations" rel="travaux" title="Mars 2013 — Travaux des fondations">
 					<div class="table-wrap">
-						<span>mars 2013 : travaux des fondations</span>
+						<span>Mars 2013 — Travaux des fondations</span>
 					</div>
 				</a>
 			</li>
