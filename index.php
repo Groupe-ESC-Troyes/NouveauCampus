@@ -156,18 +156,48 @@
 		</div>
 		<ul class="travaux">
 			<li>
-				<a href="img/travaux/panoramique-parking.jpg" class="parking" rel="travaux">
-					<span>25 mars — tout rasé</span>
+				<a href="img/travaux/pre-destruction.jpg" class="usine" rel="travaux">
+					<span>juillet 2012 — l’usine qui laissera place au campus</span>
 				</a>
 			</li>
 			<li>
-				<a href="img/travaux/panoramique-terre.jpg" class="terre" rel="travaux">
-					<span>13 avril — ça commence</span>
+				<a href="img/travaux/destruction.jpg" class="demolition" rel="travaux">
+					<span>octobre 2012 : début de la démolition de l’ancienne usine</span>
 				</a>
 			</li>
 			<li>
-				<a href="img/travaux/ru.jpg" class="ru" rel="travaux">
-					<span>28 avril — l'ancien réfectoire</span>
+				<a href="img/destruction-noirblanc.jpg" class="construction" rel="travaux">
+					<span>novembre 2012 : nouveaux espaces de construction</span>
+				</a>
+			</li>
+			<li>
+				<a href="img/destruction-batiment.jpg" class="fin-demolitions" rel="travaux">
+					<span>décembre 2012 : dernières démolitions</span>
+				</a>
+			</li>
+			<li>
+				<a href="img/pano-1.jpg" class="terrassement-1" rel="travaux">
+					<span>janvier 2013 : fin de la démolition et début du terrassement</span>
+				</a>
+			</li>
+			<li>
+				<a href="img/pano-2.jpg" class="terrassement-2" rel="travaux">
+					<span>février 2013 : travaux de terrassement</span>
+				</a>
+			</li>
+			<li>
+				<a href="img/pano-3.jpg" class="terrassement-3" rel="travaux">
+					<span>mars 2013 : préparation du terrain et fin du terrassement</span>
+				</a>
+			</li>
+			<li>
+				<a href="img/pano-4.jpg" class="grue" rel="travaux">
+					<span>avril 2013 : installation de la grue et début des fondations</span>
+				</a>
+			</li>
+			<li>
+				<a href="img/pano-5.jpg" class="fondations" rel="travaux">
+					<span>mars 2013 : travaux des fondations</span>
 				</a>
 			</li>
 		</ul>

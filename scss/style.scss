@@ -199,7 +199,7 @@ ul.travaux a{
 	width: 820px;
 	height: 180px;
 	@include background-size(cover);
-	background-position: center top;
+	background-position: center;
 	background-repeat: no-repeat;
 	@include rem-sizing('font-size', 25);
 	color: #fff;
@@ -225,14 +225,32 @@ ul.travaux a{
 		background: rgba(0,0,0,.5);
 	}
 	
-	&.parking{
-		background-image: url('../img/travaux/panoramique-parking.jpg');
+	&.usine{
+		background-image: url('../img/travaux/pre-destruction.jpg');
 	}
-	&.terre{
-		background-image: url('../img/travaux/panoramique-terre.jpg');
+	&.demolition{
+		background-image: url('../img/travaux/destruction.jpg');
 	}
-	&.ru{
-		background-image: url('../img/travaux/ru.jpg');
+	&.construction{
+		background-image: url('../img/travaux/destruction-noirblanc.jpg');
+	}
+	&.fin-demolitions{
+		background-image: url('../img/travaux/destruction-batiment.jpg');
+	}
+	&.terrassement-1{
+		background-image: url('../img/travaux/pano-1.jpg');
+	}
+	&.terrassement-2{
+		background-image: url('../img/travaux/pano-2.jpg');
+	}
+	&.terrassement-3{
+		background-image: url('../img/travaux/pano-3.jpg');
+	}
+	&.grue{
+		background-image: url('../img/travaux/pano-4.jpg');
+	}
+	&.fondations{
+		background-image: url('../img/travaux/pano-5.jpg');
 	}
 }
 ul.travaux a span{
