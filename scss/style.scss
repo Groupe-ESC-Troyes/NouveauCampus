@@ -7,6 +7,18 @@
 	width: 100%;
 	background: $orange;
 }
+#mainnav .menu-toggle{
+	display: none;
+	padding: 8px 0;
+	color: #fff;
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: none;
+
+	@include width-matches($mobile){
+		display: block;
+	}
+}
 #mainnav ul{
 	display: table;
 	list-style: none;
@@ -16,18 +28,34 @@
 	@include width-below($small-desktop){
 		width: 100%;
 	}
+	@include width-matches($mobile){
+		display: none;
+	
+		&.active{
+			display: block;
+		}
+	}
 }
 #mainnav li{
 	display: table-cell;
 	vertical-align: middle;
+
+	@include width-matches($mobile){
+		display: block;
+	}
 }
-#mainnav a{
+#mainnav .menu-link{
 	display: block;
 	color: #ffffff;
 	text-decoration: none;
 	text-transform: uppercase;
 	margin-top: -15px;
 	padding-bottom: 7px;
+	padding-left: 5px;
+
+	@include width-matches($mobile){
+		margin-top: 0;
+	}
 
 	&:before{
 		@include rem-sizing('font-size', 40);
@@ -36,6 +64,11 @@
 		top: 12px;
 		color: #c05a08;
 		@include transition();
+	
+		@include width-matches($mobile){
+			@include rem-sizing('font-size', 28);
+			top: 8px;
+		}
 	}
 	&.accueil:before{
 		content: '\e000';
@@ -101,6 +134,10 @@ div.content p{
 	
 	& + p{
 		margin-top: 34px;
+	}
+	
+	@include width-matches($mobile){
+		width: 90%;
 	}
 }
 

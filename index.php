@@ -42,25 +42,28 @@
 	<!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
 	
 	<nav id="mainnav">
+		<a href="#" class="menu-toggle">
+			menu
+		</a>
 		<ul>
 			<li>
-				<a href="#accueil" class="accueil">
+				<a href="#accueil" class="accueil menu-link">
 					Accueil
 				</a>
 			</li>
 			<li>
-				<a href="#motivations" class="motivations">
+				<a href="#motivations" class="motivations menu-link">
 					Nos motivations
 				</a>
 			</li>
 			<li>
-				<a href="#campus" class="campus">
+				<a href="#campus" class="campus menu-link">
 					Le nouveau campus
 				</a>
 			</li>
 			<li>
-				<a href="#travaux" class="travaux">
-					les travaux
+				<a href="#travaux" class="travaux menu-link">
+					Les travaux
 				</a>
 			</li>
 		</ul>

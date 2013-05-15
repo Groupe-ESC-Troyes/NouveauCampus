@@ -1,4 +1,8 @@
 $(function(){
+	$('a.menu-toggle').click(function(){
+		$('#mainnav ul').toggleClass('active');
+	});
+	
 	$('a[rel="galerie"], a[rel="travaux"]').fancybox();
 	
 	var transitionedGalerie = false,
