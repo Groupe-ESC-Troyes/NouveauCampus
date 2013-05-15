@@ -132,6 +132,14 @@
 					La structure sera divisée en deux pour laisser place à une petite rue intérieure 
 					et une passerelle reliera l’ancien et le nouveau bâtiment. 
 				</p>
+				<aside class="pull-quote">
+					<blockquote>
+						Nous avons souhaité donner une dimension 
+						troyenne à l'ESC en nous inspirant de l'univers de l'école caractérisé par des 
+						sites industriels comme Jacquot ou Devanlay et la présence des magasins 
+						d'usine
+					</blockquote>
+				</aside>
 				<p>
 					Particularité du nouveau bâtiment : il sera traversé par une large rue 
 					intérieure, offrant une véritable qualité d'espace. Pour éviter une opposition 
