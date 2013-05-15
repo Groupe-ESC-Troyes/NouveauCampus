@@ -47,6 +47,7 @@ span.icon{
 	color: #333;
 	@include rem-sizing('font-size', 20);
 	text-align: justify;
+	font-weight: 200;
 }
 
 @include keyframes(slideIn){
