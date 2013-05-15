@@ -77,14 +77,12 @@ div.wrapper h2{
 	margin-bottom: 35px;
 }
 div.content{
-	@include column-count(2);
-	@include column-gap(30px);
-	@include column-break-inside(avoid);
-	text-align: justify;
+	width: 500px;
+	margin: auto;
 }
 div.content p{
 	line-height: 1.4;
-	margin-bottom: 39px;
+	margin-bottom: 34px;
 }
 
 #accueil{
@@ -260,12 +258,12 @@ ul.travaux div.table-wrap{
 ul.travaux a span{
 	position: relative;
 	display: block;
-	z-index: 101;
-	opacity: .4;
 	width: 80%;
-	border: 1px solid #fff;
+	z-index: 101;
 	padding: 14px;
 	margin: auto;
+	opacity: .4;
+	border: 1px solid #fff;
 }
 ul.travaux a:hover span{
 	opacity: 1;
