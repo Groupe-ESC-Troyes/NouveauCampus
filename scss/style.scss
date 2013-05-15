@@ -55,6 +55,7 @@ section{
 	@include background-size(cover);
 	background-position: center;
 	background-repeat: no-repeat;
+	padding: 40px 0;
 	
 	&:target{
 		padding-top: 50px;
