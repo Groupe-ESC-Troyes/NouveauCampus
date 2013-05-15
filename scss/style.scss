@@ -12,6 +12,10 @@
 	list-style: none;
 	width: 960px;
 	margin: auto;
+
+	@include width-below($small-desktop){
+		width: 100%;
+	}
 }
 #mainnav li{
 	display: table-cell;
@@ -65,10 +69,21 @@ section{
 #partenaire-1,
 #partenaire-2{
 	min-height: 700px;
+
+	@include width-matches($tablet){
+		min-height: 500px;
+	}
+	@include width-matches($mobile){
+		min-height: 400px;
+	}
 }
 div.wrapper{
 	width: 960px;
 	margin: auto;
+	
+	@include width-below($small-desktop){
+		width: 100%;
+	}
 }
 
 //sldies de texte
@@ -98,33 +113,28 @@ div.content p{
 	background: rgba(0,0,0,.3);
 	width: 800px;
 	margin: 100px auto 0;
-	padding: 35px 0;
+	padding: 35px 5px;
 	text-align: center;
+
+	@include width-below($small-desktop){
+		width: 80%;
+		@include rem-sizing('font-size', 44);
+	}
+	@include width-below($tablet){
+		width: 80%;
+		@include rem-sizing('font-size', 36);	
+	}
 }
 #accueil h1 .alternate{
 	display: block;
 	color: #fff;
 	@include rem-sizing('font-size', 40);
-}
-#accueil nav.subnav{
-	width: 800px;
-	margin: 30px auto 0;
-}
-#accueil nav.subnav a{
-	display: block;
-	float: left;
-	color: #fff;
-	width: 200px;
-	height: 200px;
-	margin-left: 100px;
-	background: $orange;
-	text-decoration: none;
-	text-transform: uppercase;
-	text-align: center;
-	font-family: $heading-font;
 
-	&:first-child{
-		margin-left: 0;
+	@include width-below($small-desktop){
+		@include rem-sizing('font-size', 30);
+	}
+	@include width-below($tablet){
+		@include rem-sizing('font-size', 24);	
 	}
 }
 
@@ -210,6 +220,13 @@ ul.travaux a{
 	text-transform: uppercase;
 	font-family: $heading-font;
 	text-align: center;
+	
+	@include width-below($small-desktop){
+		width: 740px;
+	}
+	@include width-below($tablet){
+		width: 90%;
+	}
 	
 	&:first-child{
 		margin-top: 0;
