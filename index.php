@@ -86,9 +86,13 @@
 				<p>
 					Installée depuis la fin des années 80 sur son site de l’avenue Pierre Brossolette 
 					à Troyes, le Groupe ESC Troyes, à l’étroit dans ses locaux, sera prochainement 
-					doté d’un tout nouveau bâtiment grâce à la participation du Grand Troyes, 
-					du Conseil Général de l’Aube, de la CCI de Troyes et de l’Aube et du Conseil 
-					Régional de Champagne-Ardenne. Au programme, un nouveau bâtiment relié à 
+					doté d’un tout nouveau bâtiment grâce à la participation du 
+					<a href="http://www.grand-troyes.fr/" target="_blank">Grand Troyes</a>, 
+					du 
+					<a href="http://www.cg-aube.fr/" target="_blank">Conseil Général de l’Aube</a>, de la 
+					<a href="www.troyes.cci.fr" target="_blank">CCI de Troyes et de l’Aube</a> et du 
+					<a href="www.cr-champagne-ardenne.fr" target="_blank">Conseil Régional de Champagne-Ardenne</a>. 
+					Au programme, un nouveau bâtiment relié à 
 					l'ancien par une passerelle, de nouveaux parkings et des lieux de vie plus 
 					modernes et adaptés aux étudiants et aux entreprises.
 				</p>

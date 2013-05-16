@@ -140,6 +140,13 @@ div.content p{
 		width: 90%;
 	}
 }
+div.content a{
+	color: #2084ca;
+	
+	&:visited{
+		color: #57aeeb;
+	}
+}
 
 #accueil{
 	padding: 40px 0;
